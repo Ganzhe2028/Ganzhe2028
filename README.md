@@ -4,4 +4,6 @@
 - Hexo个人博客：https://www.ganzhe.site
 - 班级/Space-One博客：https://etulishi.cn
 
-You can call me Isaac Bao / Ganzhe Bao, or my Chinese name **Lecheng** 
+My name is Isaac, and my full Chinese name is Lecheng Bao
+
+You can call me Isaac, Ganzhe [GAHN-juh] , or my Chinese name Lecheng
